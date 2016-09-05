@@ -1,0 +1,1 @@
+puts ENV['SECRET_KEY_BASE']
